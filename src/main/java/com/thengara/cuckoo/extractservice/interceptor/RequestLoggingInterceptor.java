@@ -1,4 +1,4 @@
-package com.cuckoo.finapps.extractservice.interceptor;
+package com.thengara.cuckoo.extractservice.interceptor;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

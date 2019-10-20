@@ -1,4 +1,4 @@
-package com.cuckoo.finapps.extractservice;
+package com.thengara.cuckoo.extractservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

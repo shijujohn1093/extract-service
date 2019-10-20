@@ -13,6 +13,6 @@ management:
 logging:
   level:
     root: warn
-    com.cuckoo.finapps: debug
+    com.thengara.cuckoo: debug
   file: log/app.log
   

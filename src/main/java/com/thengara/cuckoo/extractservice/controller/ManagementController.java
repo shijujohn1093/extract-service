@@ -1,4 +1,4 @@
-package com.cuckoo.finapps.extractservice.controller;
+package com.thengara.cuckoo.extractservice.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.cuckoo.finapps.extractservice.model.Response;
+import com.thengara.cuckoo.extractservice.model.Response;
 
 @RestController
 @RequestMapping("/mgmt")

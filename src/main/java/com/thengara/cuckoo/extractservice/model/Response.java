@@ -1,4 +1,4 @@
-package com.cuckoo.finapps.extractservice.model;
+package com.thengara.cuckoo.extractservice.model;
 
 import java.util.ArrayList;
 import java.util.List;

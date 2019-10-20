@@ -1,4 +1,4 @@
-package com.cuckoo.finapps.extractservice.config;
+package com.thengara.cuckoo.extractservice.config;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.AsyncSupportConfigurer;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport;
 
-import com.cuckoo.finapps.extractservice.interceptor.RequestLoggingInterceptor;
+import com.thengara.cuckoo.extractservice.interceptor.RequestLoggingInterceptor;
 
 @Configuration
 public class WebConfig extends WebMvcConfigurationSupport {

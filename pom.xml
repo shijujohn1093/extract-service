@@ -11,7 +11,7 @@
 		<version>2.2.0.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cuckoo.finapps</groupId>
+	<groupId>com.thengara.cuckoo</groupId>
 	<artifactId>extract-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>extract-service</name>

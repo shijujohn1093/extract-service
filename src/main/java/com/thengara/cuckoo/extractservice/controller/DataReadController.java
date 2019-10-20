@@ -1,4 +1,4 @@
-package com.cuckoo.finapps.extractservice.controller;
+package com.thengara.cuckoo.extractservice.controller;
 
 import java.util.Date;
 import java.util.concurrent.ExecutorService;
@@ -18,8 +18,8 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyEmitter
 import org.springframework.web.servlet.mvc.method.annotation.SseEmitter;
 import org.springframework.web.servlet.mvc.method.annotation.StreamingResponseBody;
 
-import com.cuckoo.finapps.extractservice.model.HealthModel;
-import com.cuckoo.finapps.extractservice.service.DataReadService;
+import com.thengara.cuckoo.extractservice.model.HealthModel;
+import com.thengara.cuckoo.extractservice.service.DataReadService;
 
 @RestController
 @RequestMapping("/extract")
