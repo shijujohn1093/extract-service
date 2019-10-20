@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: extract-service
+server:
+  port: 8081
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+
+logging:
+  level:
+    root: warn
+    com.cuckoo.finapps: debug
+  file: log/app.log
+  
