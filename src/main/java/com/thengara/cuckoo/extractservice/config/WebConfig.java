@@ -45,6 +45,7 @@ public class WebConfig extends WebMvcConfigurationSupport {
 		executor.setCorePoolSize(5);
 		executor.setMaxPoolSize(20);
 		executor.setQueueCapacity(1000);
+		executor.setThreadNamePrefix("async-task-");
 		return executor;
 	}
 

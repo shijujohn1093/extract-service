@@ -1,5 +1,5 @@
 https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/
-
+https://howtodoinjava.com/spring-boot2/rest/spring-async-controller-responsebodyemitter/
 
 # Async node client
 
